@@ -1,4 +1,4 @@
-baseURL = 'https://dent-de-lion.github.io/index/'
+baseURL = 'https://dent-de-lion.github.io/'
 languageCode = 'ja-jp'
 title = 'My New, And First Hugo Site'
 publishDir = "docs"
