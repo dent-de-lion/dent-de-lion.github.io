@@ -1,7 +1,6 @@
 ---
 title: "index"
 date: 2022-10-12T22:20:25+09:00
-draft: true
 ---
 
 # Index
