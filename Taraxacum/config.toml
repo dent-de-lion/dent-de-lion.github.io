@@ -1,4 +1,5 @@
 baseURL = 'https://dent-de-lion.github.io/index/'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = 'My New, And First Hugo Site'
 publishDir = "docs"
+theme = "PaperMod"
